@@ -27,10 +27,10 @@ const TeamDetail = () => {
                     className="team-logo responsive"> <img src={strTeamBadge} alt=""/> 
                 </div>
                     <div className="home-background">
-                        <div className="home-page">
-                            <div className="container p-5 team-detail">
+                        
+                            <div className="container p-5 team-detail home-page">
                                 <div className="row">
-                                    <div className="team-detail-text col-md-6">
+                                    <div className="team-detail-text">
                                         <h1>{strTeam}</h1>
                                         <br/>
                                         <h3><FontAwesomeIcon icon={faSearchLocation} /> <span class="ml-2">Founded:</span> {intFormedYear}</h3>
@@ -38,12 +38,12 @@ const TeamDetail = () => {
                                         <h3><FontAwesomeIcon icon={faFutbol} /> <span class="ml-2">Sport Type:</span> {strSport}</h3>
                                         <h3><FontAwesomeIcon icon={faMars} /> <span class="ml-2">Gender:</span> {strGender}</h3>
                                     </div>
-                                    <div className="team-gender-img col-md-6">
+                                    <div className="team-gender-img">
                                     {gender}
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        
                         <div className="container text">
                             <p>{strDescriptionEN}</p>
                             <br/>

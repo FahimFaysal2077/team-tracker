@@ -26,16 +26,16 @@
     position: absolute;
     width: 337px;
     height: 211px;
-    left: 250px;
-    top: 80px;
+    left: 500px;
+    top: 530px;
     transform: translate(-50%, -50%);
 }
   .team-gender-img img {
     position: absolute;
     width: 460px;
     height: 280px;
-    left: 325px;
-    top: 105px;
+    left: 1175px;
+    top: 562px;
     transform: translate(-50%, -50%);
 }
 .home-background {
@@ -50,6 +50,8 @@
 .team-detail {
     background: #3A42FF;
     border-radius: 15px;
+    width: 460px;
+    height: 320px;
 }
 .social-icons {
     text-decoration: none;
