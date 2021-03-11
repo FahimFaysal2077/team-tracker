@@ -28,8 +28,8 @@ const TeamDetail = () => {
                 </div>
                     <div className="home-background">
                         
-                            <div className="container p-5 team-detail home-page">
-                                <div className="row">
+                            <div className="container team-detail home-page">
+                                <div>
                                     <div className="team-detail-text">
                                         <h1>{strTeam}</h1>
                                         <br/>
