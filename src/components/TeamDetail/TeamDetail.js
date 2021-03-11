@@ -17,7 +17,7 @@ const TeamDetail = () => {
         .then(data => setTeam(data.teams[0]))
     }, [idTeam])
 
-    let gender = strGender === "Male" ? <img src="https://i.ibb.co/CWNmwkw/male.png" /> : <img src="https://i.ibb.co/tbdtGHw/female.png" />;
+    let gender = strGender === "Male" ? <img src="https://i.ibb.co/CWNmwkw/male.png" alt="" /> : <img src="https://i.ibb.co/tbdtGHw/female.png" alt="" />;
     
     return (
         <div>
