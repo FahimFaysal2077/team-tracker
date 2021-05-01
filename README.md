@@ -31,3 +31,10 @@ https://gifted-khorana-78ce58.netlify.app
 
 #### Technologies:
 JavaScript(ES6), React.Js, Node.Js, MongoDB, Netlify, React Router, Material UI, Bootstrap, etc.
+
+
+## Resume Link:
+ https://ready-rides-bangladesh.web.app/
+ 
+## Linkedin Link:
+ https://ready-rides-bangladesh.web.app/
