@@ -27,3 +27,7 @@ https://gifted-khorana-78ce58.netlify.app
 *Country,
 *Sport Type,
 *Gender etc.
+
+
+#### Technologies:
+JavaScript(ES6), React.Js, Node.Js, MongoDB, Netlify, React Router, Material UI, Bootstrap, etc.
